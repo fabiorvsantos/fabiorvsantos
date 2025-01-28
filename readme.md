@@ -24,3 +24,38 @@ O meu nome é <i>f4b10</i> e este é meu perfil no Github. 🚀</h1>
 </div>
   
 ##
+
+
+# 👋 Olá, pode de chamar de f4b10!
+Atualmente sou um estudante de Segurança da Informação mas apaixonado por desenvolvimento de programas.
+
+##
+### 📊 Estatísticas no GitHub:
+<a href="https://github.com/fabiorvsantos">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=fabiorvsantos&locale=pt-br&show_icons=true&include_all_commits=true&count_private=true&\&rank_icon=github" />
+</a>
+
+##
+### 👨‍💻 Principais Tecnologias e Ferramentas 🛠
+
+<div style="display: inline_block"><br/>
+<img aLign="center" alt="HTML 5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img aLign="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+
+<img aLign="center" alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white" />
+
+</div>
+
+##
+### 🤓 Estudando atualmente:
+
+<div style="display: inline_block"><br/>
+<img aLign="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+<img aLign="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+<img aLign="center" src="https://img.shields.io/badge/Ingl%C3%AAs-2ea44f?style=for-the-badge" alt="Inglês"></a>
+</div>
+
+##
+### 📲 Você pode me encontrar em:
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/fabiorvsantos)

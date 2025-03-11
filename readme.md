@@ -26,8 +26,7 @@ O meu nome é <i>f4b10</i> e este é meu perfil no Github. 🚀</h1>
 ##
 
 
-# 👋 Olá, pode de chamar de f4b10!
-Atualmente sou um estudante de Segurança da Informação mas apaixonado por desenvolvimento de programas.
+# 👋 Atualmente sou um estudante de Segurança da Informação mas apaixonado por desenvolvimento de programas.
 
 ##
 ### 📊 Estatísticas no GitHub:
